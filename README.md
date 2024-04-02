@@ -3,10 +3,10 @@ Results-oriented SQA Engineer with expertise in both manual and automated testin
 
 **Skill & Proficiencies:**
 
-| Syntax | Description |
+| Skill | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Manual Testing | Writing and Reviewing Test Cases, Functional and Non-Functional Testing, Smoke and Sanity Testing, Performance Testing, Retesting, Regression Testing, Release Testing, Test Execution and Evaluation, Creating Test Report, Root Cause Analysis, Mind Map. |
+| Automation Testing Tools | Selenium using Java language, Cypress E2E Testing, Appium for mobile automation. |
 
 - 👋 Hi, I’m @rafatul013
 - 👀 I’m interested in Software Testing And Quality Assurance
