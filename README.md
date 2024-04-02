@@ -7,6 +7,8 @@ Results-oriented SQA Engineer with expertise in both manual and automated testin
 | ----------- | ----------- |
 | Manual Testing | Writing and Reviewing Test Cases, Functional and Non-Functional Testing, Smoke and Sanity Testing, Performance Testing, Retesting, Regression Testing, Release Testing, Test Execution and Evaluation, Creating Test Report, Root Cause Analysis, Mind Map. |
 | Automation Testing Tools | Selenium using Java language, Cypress E2E Testing, Appium for mobile automation. |
+| API Testing and Tools | API testing using Postman and Newman. (Data validation by writing test scripts, Data Driven Testing, Run Collection in CMD and generate HTML report) |
+| Performance Testing | Load and Stress Testing using JMeter and generate HTML report. |
 
 - 👋 Hi, I’m @rafatul013
 - 👀 I’m interested in Software Testing And Quality Assurance
