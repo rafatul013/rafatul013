@@ -3,7 +3,10 @@ Results-oriented SQA Engineer with expertise in both manual and automated testin
 
 **Skill & Proficiencies:**
 
+| Syntax | Description |
+| ----------- | ----------- |
 | Header | Title |
+| Paragraph | Text |
 
 - 👋 Hi, I’m @rafatul013
 - 👀 I’m interested in Software Testing And Quality Assurance
