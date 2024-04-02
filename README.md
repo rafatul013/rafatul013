@@ -1,5 +1,9 @@
-**Career Objects and Summary: ** <br>
+**Career Objects and Summary:** <br>
 Results-oriented SQA Engineer with expertise in both manual and automated testing phases, specializing in planning, analysis, design, and maintenance for web-based and mobile-based applications. Proven success in diverse domains with about 2 years of experience, including Micro Banking System, ERP, Healthcare, Training Management System, and Intelli Hiring Management System. Committed to ensuring the quality and reliability of software applications through effective testing strategies and collaboration with cross-functional teams.
+
+**Skill & Proficiencies:**
+
+| Header | Title |
 
 - 👋 Hi, I’m @rafatul013
 - 👀 I’m interested in Software Testing And Quality Assurance
